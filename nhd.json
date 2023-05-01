@@ -1,7 +1,7 @@
 {
     "META": {
-        "repoName": "NHD Repo",
-        "repoIcon": "https://usescarlet.com/favicon.png"
+        "repoName": "NHD",
+        "repoIcon": "https://raw.githubusercontent.com/nhd-16/RepoNHD/main/icon.png"
     },
     "Tweaked": [
         {
@@ -30,14 +30,16 @@
             "changelog": "- Updated Spotilife to v1.8"
         }
     ],
-	"Games": [{
-		"name": "Age Of War 2",
-		"version": "1.6.6",
-		"icon": "https://raw.githubusercontent.com/nhd-16/RepoNHD/main/icon.png",
-		"down": "https://github.com/nhd-16/RepoNHD/raw/main/Games/Age%20of%20war%202_iGG.ipa",
-		"category": "Hacked Games",
-		"description": "Tiêm IGG",
-		"bundleID": "com.maxgames.aow2",
-        "enableBackup": true
-	}]
+    "Games": [
+        {
+            "name": "Age Of War 2",
+            "version": "1.6.6",
+            "icon": "https://raw.githubusercontent.com/nhd-16/RepoNHD/main/icon.png",
+            "down": "https://github.com/nhd-16/RepoNHD/releases/download/Games/Age.of.war.2-iGG.ipa",
+            "category": "Hacked Games",
+            "description": "Tiêm IGG",
+            "bundleID": "com.maxgames.aow2",
+            "enableBackup": true
+        }
+    ]
 }
