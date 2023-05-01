@@ -29,5 +29,15 @@
             ],
             "changelog": "- Updated Spotilife to v1.8"
         }
-    ]
+    ],
+	"Hacked": [{
+		"name": "Scarlet",
+		"version": "1.6.6",
+		"icon": "https://raw.githubusercontent.com/nhd-16/RepoNHD/main/icon.png",
+		"down": "https://github.com/nhd-16/RepoNHD/raw/main/Games/Age%20of%20war%202_iGG.ipa",
+		"category": "IGG",
+		"description": "Tiêm IGG",
+		"bundleID": "com.maxgames.aow2",
+        "enableBackup": true
+	}]
 }
