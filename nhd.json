@@ -38,8 +38,17 @@
             "down": "https://github.com/nhd-16/RepoNHD/releases/download/Games/Age.of.war.2-iGG.ipa",
             "category": "Hacked Games",
             "description": "Tiêm IGG",
-            "bundleID": "com.maxgames.aow2",
             "enableBackup": true
         }
-    ]
+    ],
+	"Other": [{
+		"name": "Scarlet",
+		"version": "1.0",
+		"icon": "https://usescarlet.com/icon.png",
+		"down": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+		"description": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
+		"bundleID": "com.DebianArch.Scarlet",
+		"category": "Alpha",
+		"changelog": "- Added fakesign support\n-Added back SSL install support."
+	}]
 }
